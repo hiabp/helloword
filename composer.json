@@ -1,5 +1,5 @@
 {
-"name":"hiabp/helloword",
+"name":"hiabp/helloword","version":"1.0.0",
     "require": {
             "monolog/monolog": "1.2.*"
 	        },
