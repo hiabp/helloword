@@ -1,5 +1,5 @@
 {
-	"name":"b5m/om-test",
+	"name":"hiabp/helloword",
     "require": {
         "monolog/monolog": "1.2.*"
     },
